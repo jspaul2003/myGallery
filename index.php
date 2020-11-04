@@ -17,7 +17,7 @@
 </head>
 
 <body>
-<h2 style="padding-left:4%; color:black;">A gallery of some of my work</h2>
+<h2 style="padding-left:4%; color:black;">A sample of Js Paul's work</h2>
 
 
 <div class="tz-gallery">
