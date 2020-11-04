@@ -17,7 +17,7 @@
 </head>
 
 <body>
-<h2 style="padding-left:4%; color:black;">A sample of Js Paul's work</h2>
+<h2 style="padding-left:4%; color:black;">A sample of JS Paul's work</h2>
 
 
 <div class="tz-gallery">
